@@ -1,12 +1,12 @@
 - 👋 Hi, I’m Victor!
 - 🌱 I’m currently learning full stack web development in JS and MERN (Mongo-Express-React-Node)
-- 👀 I’m interested in everything related to product management in tech environment.
-- 🚀 I’m looking a tech-job in Poblenou 22@ District.
+- 👀 I’m passionate of everything related to product management and user experiences.
+- 🚀 I’m looking for a tech-job in Poblenou 22@ District!
 - 📫 https://www.linkedin.com/in/victorcastanos/
+
 
 - 🔖 More about me :
 
-👋🏻  Hi, everyone! 
 
 👨‍💻 ▪️  As a Full Stack Product Manager I bring a wealth and extensive cross functional experience managing Agile projects across large organizations adding best practices to corporate PMO.
 
